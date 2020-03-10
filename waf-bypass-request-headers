@@ -35,8 +35,10 @@ X-BlueCoat-Via: 0000:0000:0000:0000:0000:0000:0000:0001/128
 X-BlueCoat-Via: 127.0.0.1
 X-BlueCoat-Via: 127.1
 X-BlueCoat-Via: ::1/128
-X-Client-IP:
+X-Client-IP: 0000:0000:0000:0000:0000:0000:0000:0001/128
+X-Client-IP: 127.0.0.1
 X-Client-IP: 127.1
+X-Client-IP: ::1/128
 X-Forwarded-For: 0000:0000:0000:0000:0000:0000:0000:0001/128
 X-Forwarded-For: 127.0.0.1
 X-Forwarded-For: 127.1
