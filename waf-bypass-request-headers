@@ -1,9 +1,20 @@
+Akamai-Origin-Hop: 1
+CF-Connecting-IP: 127.0.0.1
+Client-IP: 127.0.0.1
 Forwarded: for=127.0.0.1
+Proxy-Client-IP: 127.0.0.1
 Source-IP: 127.0.0.1
+True-Client-IP: 127.0.0.1
+Via: 127.0.0.1
 WL-Proxy-Client-IP: 127.0.0.1
+X-BlueCoat-Via: 127.0.0.1
+X-Client-IP:
 X-Forwarded-For: 127.0.0.1
 X-Forwarded-Host: localhost
+X-Original-Hostname: localhost
+X-Original-IP: 127.0.0.1
 X-Originating-IP: 127.0.0.1
+X-ProxyUser-IP: 127.0.0.1
 X-Real-IP: 127.0.0.1
 X-Remote-Addr: 127.0.0.1
 X-Remote-IP: 127.0.0.1
