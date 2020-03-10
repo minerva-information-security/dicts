@@ -1,4 +1,6 @@
 Forwarded: for=127.0.0.1
+Source-IP: 127.0.0.1
+WL-Proxy-Client-IP: 127.0.0.1
 X-Forwarded-For: 127.0.0.1
 X-Forwarded-Host: localhost
 X-Originating-IP: 127.0.0.1
@@ -6,3 +8,4 @@ X-Real-IP: 127.0.0.1
 X-Remote-Addr: 127.0.0.1
 X-Remote-IP: 127.0.0.1
 X-True-Client-IP: 127.0.0.1
+Z-Forwarded-For: 127.0.0.1
