@@ -43,9 +43,7 @@ X-Forwarded-For: 0000:0000:0000:0000:0000:0000:0000:0001/128
 X-Forwarded-For: 127.0.0.1
 X-Forwarded-For: 127.1
 X-Forwarded-For: ::1/128
-X-Forwarded-Host: 127.1
 X-Forwarded-Host: localhost
-X-Original-Hostname: 127.1
 X-Original-Hostname: localhost
 X-Original-IP: 0000:0000:0000:0000:0000:0000:0000:0001/128
 X-Original-IP: 127.0.0.1
